@@ -1,2 +1,3 @@
-# -lktslionel
-Profile Automation for lktslionel consultant
+# Staff
+
+Profile Automation for Trueskil's Staff
